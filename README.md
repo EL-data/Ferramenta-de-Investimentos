@@ -22,3 +22,6 @@ Fiz a ferramenta bem similar à que o expert demonstrou fazendo apenas algumas p
 <img width="1280" height="763" alt="Captura_Ferramenta_FII_2" src="https://github.com/user-attachments/assets/879bc550-1216-4c67-9b19-f8128656eadc" />
 <img width="1280" height="761" alt="Captura_Ferramenta_FII_1" src="https://github.com/user-attachments/assets/21cea5b9-bdbb-4d06-b34d-71df73d07f35" />
 <img width="1280" height="758" alt="Captura_Ferramenta_FII_4" src="https://github.com/user-attachments/assets/61fc75d4-4931-43b0-8aa6-e695273fbaa9" />
+
+
+[Ferramenta_de_investimento_com_FIIS.xlsx](https://github.com/user-attachments/files/33579084/Ferramenta_de_investimento_com_FIIS.xlsx)
